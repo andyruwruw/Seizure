@@ -1,0 +1,33 @@
+html
+{
+    background: black;
+}
+
+h1
+{
+    padding: 7px;
+    padding-top: 10%;
+    margin: 0 auto;
+    text-align: center;
+    color: red;
+}
+
+h2
+{
+    padding: 3px;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+}
+
+#button
+{
+    background-color: white;
+    color: black;
+}
+
+#buttonDiv
+{
+    padding-top: 20px;
+    text-align: center;
+}
